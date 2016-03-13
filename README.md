@@ -9,6 +9,6 @@ Due to complications with outputting unicode characters in the Windows JVM I dec
 - Heart = H
 - Spade = S
 - Diamond = D
-- club = C
+- Club = C
 
 Please refer to the file Suit.java for more detail regarding the unicode characters.
