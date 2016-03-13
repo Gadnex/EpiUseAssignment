@@ -10,4 +10,5 @@ Due to complications with outputting unicode characters in the Windows JVM I dec
 - Spade = S
 - Diamond = D
 - club = C
+
 Please refer to the file Suit.java for more detail regarding the unicode characters.
